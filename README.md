@@ -13,6 +13,7 @@ The objective is to automate **happy-path scenarios** for core HRMS modules and 
 
 ## Project Structure
 
+'''
 Automation-HRMS/
 │
 ├── data/
@@ -28,7 +29,7 @@ Automation-HRMS/
 │
 ├── requirements.txt             # Dependencies list
 └── README.md                    # Project documentation
----
+'''
 
 ## Setup Instructions
 
