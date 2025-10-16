@@ -28,6 +28,7 @@ Automation-HRMS/
 │
 ├── requirements.txt             # Dependencies list
 └── README.md                    # Project documentation
+---
 
 ## Setup Instructions
 
