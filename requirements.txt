@@ -1,0 +1,14 @@
+# Core dependencies
+selenium==4.25.0
+pytest==8.3.5
+
+# Utilities
+webdriver-manager==4.0.2
+
+# Reporting (optional but recommended)
+pytest-html==4.1.1
+pytest-metadata==3.1.1
+allure-pytest==2.14.2
+
+# Test data & helpers
+Faker==37.4.0

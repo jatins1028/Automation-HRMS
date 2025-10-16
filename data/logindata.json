@@ -1,0 +1,46 @@
+{
+  "baseURLs": {
+    "main": "https://kasturihr.com/",
+    "demo": "https://demokasturi.kasturihr.com/"
+  },
+
+  "users": {
+    "employee1": {
+      "name": "Abhishek Tyagi",
+      "email": "abhishek.a.tyagi@yopmail.com",
+      "employeeID": "2018142898",
+      "phone": "+919205345628",
+      "password": "mGmX@123"
+    },
+    "employee2": {
+      "name": "Shilpi Sharma",
+      "email": "shilpi.sharma@yopmail.com",
+      "password": "mGmX@123"
+    },
+    "employee3": {
+      "name": "Bhupendra Tripathi",
+      "email": "jsaini2898@gmail.com",
+      "password": "mGmX@123"
+    },
+    "employee4": {
+      "name": "Abhishek Tyagi",
+      "email": "jsaini2810@gmail.com",
+      "password": "mGmX@123"
+    },
+    "manager": {
+      "name": "Robert Schuster",
+      "email": "jatinsaini2898@gmail.com",
+      "password": "mGmX@123"
+    },
+    "admin": {
+      "name": "Emma Watson",
+      "email": "emma.watson@yopmail.com",
+      "password": "mGmX@123"
+    }
+  },
+
+  "negativeCases": {
+    "invalidEmail": "testing@abc.com",
+    "invalidPassword": "Password@123"
+  }
+}
