@@ -12,8 +12,7 @@ The objective is to automate **happy-path scenarios** for core HRMS modules and 
 - **Webdriver-Manager** (auto-manages drivers)
 
 ## Project Structure
-
-'''
+```
 Automation-HRMS/
 │
 ├── data/
@@ -29,12 +28,12 @@ Automation-HRMS/
 │
 ├── requirements.txt             # Dependencies list
 └── README.md                    # Project documentation
-'''
+```
 
 ## Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/<your-username>/Automation-HRMS.git
+git clone https://github.com/jatins1028/Automation-HRMS.git
 cd Automation-HRMS
 
 ### 2. Install Dependencies
